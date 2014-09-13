@@ -8,5 +8,4 @@ urlpatterns = patterns('',
     # url(r'^$', 'wrenbot.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
 
-
 )
