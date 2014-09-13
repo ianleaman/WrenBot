@@ -26,7 +26,9 @@ TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+TEMPLATE_DIRS = (
+    "groupme/templates", 
+    )
 # Application definition
 
 INSTALLED_APPS = (
